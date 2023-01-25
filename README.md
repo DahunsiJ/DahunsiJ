@@ -1,6 +1,6 @@
 Hey👋 there🙂. Thank you 🙏🏼 for stopping by
 
-- 👋 Hi, I’m Justus Dahunsi, I'm a QA engineer with a love for Quality. 
+Hi, I’m Justus Dahunsi, I'm a QA engineer with a love for Quality. 
 One thing that has made me stand out is not just my attention to detail, 
 but also my view that whatever is seen as the best can always be better. 
 
