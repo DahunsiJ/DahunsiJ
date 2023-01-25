@@ -15,7 +15,7 @@ With my knowledge and experience, I've been able to understand that
 - 🌱 I’m currently learning Java, Selenium and also improving my devops skills
 - 💞️ I’m looking to collaborate on any start-up of interest
 - 📫 How to reach me on <a href="https://www.linkedin.com/in/justusdah/">LinkedIn</a>
-- 📫 How to reach me on <a href="https://www.linkedin.com/in/justusdah/">Twitter</a>
+- 📫 How to reach me on <a href="https://twitter.com/jdahunsi5">Twitter</a>
 
 <!---
 Hey👋 there🙂. Thank you 🙏🏼 for stopping by
